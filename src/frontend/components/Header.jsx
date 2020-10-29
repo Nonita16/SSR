@@ -41,9 +41,15 @@ const Header = props => {
       </div>
     </header>
   );
+<<<<<<< HEAD
 }
 
 const mapStateToProps = state => {
+=======
+};
+
+const mapStateToProps = (state) => {
+>>>>>>> 61dc12d30ed52a99ea2f4356c627230c82f93fe1
   return {
     user: state.user,
   };
