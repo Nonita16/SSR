@@ -19,7 +19,7 @@ module.exports = {
   output: {
     path: isDev ? '/' : path.resolve(__dirname, 'src/server/public'),
     filename: isDev ? 'assets/app.js' : 'assets/app-[hash].js',
-    "publicPath": '/',
+    publicPath: '/',
   },
   resolve: {
     extensions: ['.js', '.jsx'],
