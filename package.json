@@ -6,7 +6,8 @@
   "scripts": {
     "build": "webpack-cli --config webpack.config.js --colors",
     "lint": "eslint src/frontend --fix",
-    "start": "nodemon src/server/index",
+    "start:dev": "nodemon src/server/index",
+    "start": "node src/server/index.js",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage" : "jest --coverage"
