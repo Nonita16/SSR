@@ -17,7 +17,7 @@
     "start": "node src/server/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alondra Castro",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.10.5",
