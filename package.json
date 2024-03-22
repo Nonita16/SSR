@@ -57,7 +57,7 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "webpack": "^4.43.0",
-    "webpack-dev-middleware": "^3.7.2",
+    "webpack-dev-middleware": "^5.3.4",
     "webpack-hot-middleware": "^2.25.0",
     "webpack-manifest-plugin": "^2.2.0"
   },
